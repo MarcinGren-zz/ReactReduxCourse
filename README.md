@@ -1,3 +1,5 @@
+Done during the course - udemy.com/react-redux
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
